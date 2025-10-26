@@ -1,3 +1,28 @@
 body {
     background-color: black;
+    color: white; 
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0 20px;
+}
+
+h1, h2 {
+    color: #ffcc00; /
+}
+
+a {
+    color: #66ccff; /
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
 }
